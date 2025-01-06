@@ -29,4 +29,4 @@ jobs:
         docker build -t joseinfositio2024/docker-graphql:0.0.2 .
     - name: Push Docker Image
       run: |
-        docker push joseinfositio2024/docker-graphql:0.0.2 .
+        docker push joseinfositio2024/docker-graphql:0.0.2
